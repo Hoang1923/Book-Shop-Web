@@ -106,7 +106,7 @@ section .main .main_img img{
 
 
 
-/*services*/
+/*dịch vụ*/
 
 .services{
     width: 100%;
@@ -141,49 +141,7 @@ section .main .main_img img{
     margin-bottom: 10px;
 }
 
-
-/* 
-
-/*about*/
-
-.about{
-    width: 100%;
-    height: auto;
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-.about .about_image img{
-    width: 800px;
-}
-
-.about .about_tag h1{
-    font-size: 50px;
-    position: relative;
-    bottom: 35px;
-}
-
-.about .about_tag p{
-    line-height: 22px;
-    width: 650px;
-    text-align: justify;
-    margin-bottom: 15px;
-}
-
-.about .about_tag .about_btn{
-    padding: 10px 20px;
-    background: #089da1;
-    color: #fff;
-    text-decoration: none;
-    position: relative;
-    top: 50px;
-}
-
- */
-
-/*Books*/
+/*Sách nổi bật*/
 
 .featured_boks{
     width: 100%;
@@ -334,27 +292,6 @@ section .main .main_img img{
     color: #000;
 }
 
-
-
-/*Banner*/
-
-.banner{
-    width: 100%;
-    height: 50vh;
-    background-image: url(image/banner.jpg);
-    background-size: cover;
-    background-position: center;
-}
-
-.banner .banner_btn{
-    padding: 8px 20px;
-    background: #089da1;
-    text-decoration: none;
-    color: #fff;
-    position: relative;
-    top: 70%;
-    left: 7%;
-}
 
 
 
